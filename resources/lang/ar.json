@@ -1,0 +1,23 @@
+{
+    "Login": "تسجيل الدخول",
+    "Register": "التسجيل",
+    "FName": "ألاسم ألاول ",
+    "LName": "الاسم العائلى",
+    "Your Role": "الوظيفة",
+    "Working days": "أيام العمل ",
+    "E-Mail Address": "البريد الالكترونى",
+    "Password": "كلمة السر ",
+    "Confirm Password": "تاكيج كلمة السر ",
+    "Mon": "ألاثنين",
+    "Tue": "الثلاثاء",
+    "Wed": "الاربعاء",
+    "Thu": "الخميس",
+    "Fri": "الجمعة",
+    "Sat": "السبت",
+    "Remember Me": "ـذكرنى",
+    "Forgot Your Password?": "نسيت كلمة السر ",
+    "Send Password Reset Link": "إرسال رابط إعادة تعيين كلمة السر ",
+    "Reset Password": "إعادة تعيين كلمة المرور ",
+    "search anything": "أبدء البحث عن اى شىء",
+    "The StandUp": "ألاجتماع "
+}
